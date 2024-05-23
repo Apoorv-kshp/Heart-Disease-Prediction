@@ -9,3 +9,7 @@
         Performance Metrics: Evaluated model performance using metrics such as accuracy, precision, recall, and F1 score.
         Visualization: Created visualizations to interpret model predictions and highlight key factors influencing heart disease risk.
     Impact: Provided a tool for healthcare providers to identify high-risk patients and take preventive measures, potentially reducing the incidence of heart disease.
+
+
+
+ 
